@@ -1,6 +1,0 @@
-Command 
-log: see what file is created, deleted or modified by time 
-200 to 300: change DPI from 200 to 300
-300 to 200: change DPI from 300 to 200
-turn off sim: turn off your sim module 
-turn off: turn off your Pi

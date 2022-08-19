@@ -1,7 +1,0 @@
-start_x=1
-gpu_mem=128
-dtparam=spi=on
-dtparam=i2c_arm=on
-enable_uart=1
-dtoverlay=pi3-miniuart-bt
-force_turbo=1

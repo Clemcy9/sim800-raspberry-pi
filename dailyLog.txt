@@ -1,8 +1,0 @@
-Tue 19 Mar 00:47:09 +07 2019
-Images JPG: 68
-Images PNG: 14
-Free storage: 3.7G Mb 3836652
-DPI: 100
-Voltage: 8.25^M$
-Time to take Picture: */5 * * * *$
-

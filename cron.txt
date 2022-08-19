@@ -1,1 +1,0 @@
-*/5 * * * * java -jar /home/pi/scannn/scan-lib.jar 100 > /dev/null
